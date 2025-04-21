@@ -13,14 +13,8 @@
 	<artifactId>mcp-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mcp-demo</name>
-	<description>MCP Demo project to connect with Trello.</description>
+	<description>MCP Demo project to connect and extract data from Kraken Crypto Exchange API.</description>
 	<url />
-	<licenses>
-		<license />
-	</licenses>
-	<developers>
-		<developer />
-	</developers>
 	<scm>
 		<connection />
 		<developerConnection />
